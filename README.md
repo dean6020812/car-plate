@@ -1,1 +1,2 @@
 
+使用fin.py執行classifier的訓練檔，讀入sample中的照片，處理過的照片將會存入result的資料夾中。
